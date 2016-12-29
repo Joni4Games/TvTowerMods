@@ -1,0 +1,11 @@
+Version 2:
++ Newsstudio
+	+ Schatten bei Bommelmütze eingefügt
+	+ Kaffeetasse eingefügt
+	+ 
++ Betty:
+	+ Schnee
+	+ Schneemann
++ GUI:
+	+ Rote Färbung
+	+ "Schneeflocken-Effekt"
