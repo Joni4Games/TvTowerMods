@@ -1,11 +1,11 @@
 Version 2:
 + Newsstudio
-	+ Schatten bei Bommelmütze eingefügt
-	+ Kaffeetasse eingefügt
-	+ 
+	+ Schatten bei BommelmÃ¼tze eingefÃ¼gt
+	+ Kaffeetasse eingefÃ¼gt
+	+ Notizzettel "Frohes Neues"
 + Betty:
 	+ Schnee
 	+ Schneemann
 + GUI:
-	+ Rote Färbung
+	+ Rote FÃ¤rbung
 	+ "Schneeflocken-Effekt"
