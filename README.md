@@ -9,7 +9,7 @@ Version 2:
 + Newsstudio
 	+ Schatten bei Bommelmütze eingefügt
 	+ Kaffeetasse eingefügt
-	+ 
+	+ Notizzettel "Frohes Neues"
 + Betty:
 	+ Schnee
 	+ Schneemann
