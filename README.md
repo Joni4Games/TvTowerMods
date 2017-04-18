@@ -5,6 +5,7 @@ https://www.gamezworld.de/phpforum/viewtopic.php?pid=85620#p85620
 
 
 ![alt tag](https://github.com/Joni4Games/TvTowerMods/blob/master/resources/build-stable.png)
+[![GitHub release](https://github.com/Joni4Games/TvTowerMods/blob/master/resources/circle-download2.png)](https://github.com/Joni4Games/TvTowerMods/blob/master/Weihnachten-gfx.zip)
 
 Changelog:
 
