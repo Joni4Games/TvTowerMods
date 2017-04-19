@@ -9,7 +9,7 @@ https://www.gamezworld.de/phpforum/viewtopic.php?pid=85620#p85620
 
 Changelog:
 
-Version 2 (April 2017):
+Version 2 (Anfang April 2017):
 + Newsstudio
 	+ Schatten bei Bommelmütze eingefügt
 	+ Kaffeetasse eingefügt
