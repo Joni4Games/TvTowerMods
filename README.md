@@ -5,7 +5,7 @@ https://www.gamezworld.de/phpforum/viewtopic.php?pid=85620#p85620
 
 
 ![alt tag](https://github.com/Joni4Games/TvTowerMods/blob/master/resources/nbuild-stable.png)
-[![GitHub release](https://github.com/Joni4Games/TvTowerMods/blob/master/resources/circle-download2.png)](https://github.com/Joni4Games/TvTowerMods/raw/master/Weihnachten-gfx.zip)
+[![GitHub release](https://github.com/Joni4Games/TvTowerMods/blob/master/resources/ndownload.png)](https://github.com/Joni4Games/TvTowerMods/raw/master/Weihnachten-gfx.zip)
 
 Changelog:
 
